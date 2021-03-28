@@ -1,0 +1,9 @@
+/* .chatview {
+  position: relative;
+} */
+
+.chatview > img {
+  cursor: pointer;
+  height: 200px;
+  width: 200pxs;
+}
